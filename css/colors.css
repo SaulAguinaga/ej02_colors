@@ -1,0 +1,74 @@
+.colores{
+    background-color: green;
+    grid-column: span 6;
+    justify-content: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+.black{
+    background-color: black;
+    color: black;
+}
+
+.teal{
+    background-color: teal;
+    color: teal;
+}
+
+.blue{
+    background-color: blue;
+    color: blue;
+}
+.navy{
+    background-color: navy;
+    color: navy;
+}
+.lime{
+    background-color: lime;
+    color: lime;
+}
+.white{
+    background-color: white;
+    color: white;
+}
+.purple{
+    background-color: purple;
+    color: purple;
+}
+.yellow{
+    background-color: yellow;
+    color: yellow;
+}
+.olive{
+    background-color: olive;
+    color: olive;
+}
+.red{
+    background-color: red;
+    color: red;
+}
+.marron{
+    background-color: maroon;
+    color: maroon;
+}
+.gray{
+    background-color: gray;
+    color: gray;
+}
+.fuchsia{
+    background-color: fuchsia;
+    color: fuchsia;
+}
+.green{
+    background-color: green;
+    color: green;
+    grid-column: span 3;
+}
+.aqua{
+    background-color: aqua;
+    color: aqua;
+}
+.silver{
+    background-color: silver;
+    color:silver
+}

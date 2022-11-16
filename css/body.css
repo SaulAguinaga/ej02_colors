@@ -1,0 +1,8 @@
+body{
+    display: grid;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url(/src/img/wood.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
